@@ -152,3 +152,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Intellij git ignore.
+/app/stats.txt
+/app/bin/login_home.html
+/app/bin/stats.txt
+/data/.bash_history
+/data/.python_history
+.idea
