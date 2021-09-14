@@ -1,0 +1,4 @@
+{
+  "db_dir" : "../../root/HealthData/DBs",
+  "app_bin_dir": "../bin"
+}

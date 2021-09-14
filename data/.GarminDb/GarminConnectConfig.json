@@ -1,0 +1,32 @@
+
+{
+    "credentials": {
+        "user"                          : "levi.stovall713@gmail.com",
+        "password"                      : "Yk@m9Pu:63gkK#F"
+    },
+    "data": {
+        "weight_start_date"             : "08/15/2021",
+        "sleep_start_date"              : "08/15/2021",
+        "rhr_start_date"                : "08/15/2021",
+        "monitoring_start_date"         : "08/15/2021",
+        "download_latest_activities"    : 25,
+        "download_all_activities"       : 1000
+    },
+    "copy": {
+        "mount_dir"                     : "/Volumes/GARMIN"
+    },
+    "enabled_stats": {
+        "monitoring"                    : true,
+        "steps"                         : true,
+        "itime"                         : true,
+        "sleep"                         : true,
+        "rhr"                           : true,
+        "weight"                        : true,
+        "activities"                    : true
+    },
+    "course_views": {
+        "steps"                         : []
+    },
+    "modes": {
+    }
+}

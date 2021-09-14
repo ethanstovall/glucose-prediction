@@ -1,3 +1,28 @@
+## Data folders
+# .local folder
+*/.local
+# .jupyter folder
+*/.jupyter
+# .ipython folder
+*.ipython
+# .config folder
+*.config
+# Non-DBs folders from GarminDb HealthData
+FitFiles
+Plugins
+RHR
+Sleep
+Weight
+
+# Ignore databases
+*.db
+
+# GarminDb config files.
+data/.GarminDb/GarminConnectConfig.json
+
+# Local project directories json file.
+app/src/config/local_project_dirs.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
