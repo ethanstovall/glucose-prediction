@@ -17,6 +17,8 @@ Weight
 # Ignore databases
 *.db
 
+# Ignore Dexcom data
+
 # GarminDb config files.
 data/.GarminDb/GarminConnectConfig.json
 
